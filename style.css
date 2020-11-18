@@ -8,13 +8,13 @@ h1{
 }
 
 .header{
-  background-color: CornflowerBlue;
+  background-color: red;
   text-align: center;
 }
 
 .about-me{
     font-size: 20px;
-    opacity: 0.5;
+    opacity: 0.7;
   }
 
   .title{
